@@ -6,7 +6,7 @@ This is a simple REST service built using [Spring Boot](http://projects.spring.i
    
    
 ## Build and Run
-
+  
 Use Gradle:
 
 ```sh
